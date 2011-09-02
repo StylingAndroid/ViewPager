@@ -12,7 +12,6 @@ import android.support.v4.view.ViewPager;
 import android.view.View;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
-import android.widget.TextView;
 
 import com.jakewharton.android.viewpagerindicator.TitleProvider;
 
