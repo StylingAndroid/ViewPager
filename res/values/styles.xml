@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style parent="Widget.TitlePageIndicator"
+        name="Widget.MyTitlepageIndicator">
+        <item name="footerColor">#14A804</item>
+    </style>
+</resources>
