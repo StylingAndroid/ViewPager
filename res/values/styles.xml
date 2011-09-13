@@ -3,5 +3,10 @@
     <style parent="Widget.TitlePageIndicator"
         name="Widget.MyTitlepageIndicator">
         <item name="footerColor">#14A804</item>
+        <item name="footerIndicatorStyle">underline</item>
+        <item name="footerIndicatorHeight">3dp</item>
+        <item name="footerLineHeight">1.5dp</item>
+        <item name="footerPadding">6dp</item>
+        <item name="selectedColor">#14A804</item>
     </style>
 </resources>
